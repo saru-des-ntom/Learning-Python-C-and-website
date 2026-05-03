@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I love coding and building new things!
 
 ### 🛠 Skills
-![C](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
+![C](https://shields.io) 
+![Python](https://shields.io) 
+![HTML5](https://shields.io) 
 ![CSS3](https://shields.io)
 
 ### 📊 GitHub Stats
