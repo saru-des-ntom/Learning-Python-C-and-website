@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,bootstrap" />
 </p>
 
 
