@@ -6,10 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://herokuapp.com+👋;Open+Source+Learner;Full+Stack+Developer;Tech+Enthusiast">
-</p>
-
+**OPEN SOURCE LEARNER**
 
 ## 👨‍💻 About Me
 
