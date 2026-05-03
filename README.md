@@ -43,6 +43,10 @@
   <img src="https://streak-stats.demolab.com?user=Mr_Sartaz&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saru-des-ntom&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## 🏆 Achievements (Trophies)
