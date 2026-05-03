@@ -1,6 +1,11 @@
 # Hi 👋, I'm Mr_Sartaz
 
 <p align="center">
+  <img src="https://herokuapp.com+|+Open+Source;Always+Learning+New+Tech;Check+out+my+repositories!">
+</p>
+
+
+<p align="center">
   <img src="https://herokuapp.com+👋;Open+Source+Learner;Full+Stack+Developer;Tech+Enthusiast">
 </p>
 
