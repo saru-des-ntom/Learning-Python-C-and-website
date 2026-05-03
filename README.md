@@ -5,8 +5,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20LEARNER;ALWAYS%20LEARNING%20NEW%20TECH;BUILDING%20COOL%20PROJECTS&center=true&width=800&height=100&size=45&color=FFFFFF&vCenter=true">
+</p>
 
-**OPEN SOURCE LEARNER**
 
 ## 👨‍💻 About Me
 
