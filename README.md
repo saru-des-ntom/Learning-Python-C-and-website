@@ -48,7 +48,7 @@
 ## 🏆 Achievements (Trophies)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mr_Sartaz&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saru-des-ntom&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
