@@ -19,11 +19,12 @@
 ### 🌱 I'm Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,bootstrap" />
-</p>
-<p>
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,,bootstrap" />
+</p>
+
 
 ---
 
