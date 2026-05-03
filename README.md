@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mr_Sartaz
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%92%BB%20Open%20Source%20Learner&center=true&width=700&height=80&size=45&color=FFFFFF&vCenter=true">
-</p>
+</h1>
 
 ## 👨‍💻 About Me
 
