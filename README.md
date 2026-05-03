@@ -16,16 +16,13 @@
 
 ## 🛠️ Skills
 
-### 💪 I Have
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
-</p>
-
 ### 🌱 I'm Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,bootstrap" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
 </p>
 
 ---
