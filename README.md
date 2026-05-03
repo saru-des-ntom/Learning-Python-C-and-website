@@ -41,6 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-des-ntom&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://vercel.app" height="180" />
+  <img src="https://vercel.app" height="180" />
+</p>
+
 ---
 
 ## 🔥 GitHub Streak
