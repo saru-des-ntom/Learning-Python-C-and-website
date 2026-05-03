@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mr_Sartaz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Learner;Python+Developer;Web+Designer;Open+Source+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C-Learner;Python-Developer;Web+Designer;Open+Source+Learner&center=true&width=500&height=50"&fontweight=bold>
 </p>
 
 ---
