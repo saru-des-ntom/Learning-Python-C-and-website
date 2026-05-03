@@ -1,9 +1,5 @@
 # Hi 👋, I'm Mr_Sartaz
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Learner;Always+Learning+New+Tech;Check+out+my+repositories!&center=true&width=600&height=80&size=25&color=FFFFFF">
-</p>
-
+  **.c .py .html,.css....**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20LEARNER;ALWAYS%20LEARNING%20NEW%20TECH;BUILDING%20COOL%20PROJECTS&center=true&width=800&height=100&size=45&color=FFFFFF&vCenter=true">
