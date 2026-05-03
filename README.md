@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mr_Sartaz
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Learner;Python+Developer;Web+Designer;Open+Source+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C+Learner;Python+Developer;Web+Designer;Open+Source+Learner&center=true&width=500&height=50">
 </p>
 
 ---
@@ -14,24 +14,18 @@
 
 ---
 
-## 📧 Contact Me
-
-<p>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Skills
 
+### 💪 I Have
+
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Design-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
+</p>
+
+### 🌱 I'm Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,bootstrap" />
 </p>
 
 ---
@@ -49,6 +43,24 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mr_Sartaz&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements (Trophies)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr_Sartaz&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📧 Contact Me
+
+<p>
+  <a href="mailto:sartajpu54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
