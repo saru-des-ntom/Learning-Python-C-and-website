@@ -53,6 +53,16 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saru-des-ntom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=saru-des-ntom&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- VISIT WEBSITE SECTION WITH SKILL ICONS -->
+<div align="center">
+  <h2>🌐 Click Any Icon to Visit My Website 🌐</h2>
+  
+  <a href="github.io" target="_blank" rel="noreferrer">
+    <img src="skillicons.dev" alt="Visit My Portfolio Website" />
+  </a>
+  
+  <p>💡 <i>Tip: Click on the icons above to view my live portfolio site!</i></p>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
