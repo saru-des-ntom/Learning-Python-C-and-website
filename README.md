@@ -40,7 +40,7 @@
 
 ---
 
-<!-- PROFILE VIEWS -->
+**<!-- PROFILE VIEWS -->
 <h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">
@@ -55,7 +55,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"
   />
-</p>
+</p>**
 
 ---
 # 📊 GitHub Stats:
