@@ -66,7 +66,7 @@
 
   <a href="https://yourusername.github.io" target="_blank" rel="noreferrer">
     <img 
-      src="https://skillicons.dev/icons?i=website,github" 
+      src="https://skillicons.dev/icons?i=website,github(https://github.com/saru-des-ntom)" 
       alt="Visit My Portfolio Website"
     />
   </a>
