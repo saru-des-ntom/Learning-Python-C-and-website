@@ -55,14 +55,17 @@
 ---
 <!-- VISIT WEBSITE SECTION WITH SKILL ICONS -->
 <div align="center">
-  <h2>🌐 Click Any Icon to Visit My Website 🌐</h2>
-  
-  <a href="github.io" target="_blank" rel="noreferrer">
-    <img src="skillicons.dev" alt="Visit My Portfolio Website" />
+  <h2>🌐 Click Below to Visit My Portfolio 🌐</h2>
+
+  <a href="https://yourusername.github.io" target="_blank" rel="noreferrer">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github" 
+      alt="Visit My Portfolio Website"
+    />
   </a>
-  
-  <p>💡 <i>Tip: Click on the icons above to view my live portfolio site!</i></p>
+
+  <p>
+    💡 <i>Tip: Click the icons above to explore my live portfolio website!</i>
+  </p>
 </div>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
