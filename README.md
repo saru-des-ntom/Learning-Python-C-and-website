@@ -40,10 +40,21 @@
 
 ---
 
-## 👀 Profile Views
+<!-- PROFILE VIEWS -->
+<h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saru-des-ntom&label=Profile%20views&color=0e75b6&style=flat" />
+  <img
+    src="https://komarev.com/ghpvc/?username=saru-des-ntom&label=Visitors&color=blueviolet&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"
+  />
 </p>
 
 ---
