@@ -43,14 +43,14 @@
 
 ## 👀 Profile Visitors
 
-// Source - https://stackoverflow.com/q/70073951
-// Posted by user17458330, modified by community. See post 'Timeline' for change history
-// Retrieved 2026-05-13, License - CC BY-SA 4.0
+<p align="center">
+  <img src="vercel.app" alt="GitHub Stats" />
+</p>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
-</div>
+<p align="center">
+  <img src="komarev.com" alt="Visitor Count" />
+</p>
+
 
 
 ---
