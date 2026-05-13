@@ -40,22 +40,15 @@
 
 ---
 
-**<!-- PROFILE VIEWS -->
-<h2 align="center">👀 Profile Visitors</h2>
+## 👀 Profile Visitors
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=saru-des-ntom&label=Visitors&color=blueviolet&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=saru-des-ntom&show_icons=true&theme=radical" />
 </p>
 
-<!-- DIVIDER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"
-  />
-</p>**
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=saru-des-ntom&icon=5&color=12)
+</p>
 
 ---
 # 📊 GitHub Stats:
