@@ -11,7 +11,8 @@
 ✨ Welcome to my GitHub profile! ✨<br><br>👋 Hi, I'm saru-des-ntom!<br>I am a passionate learner exploring the world of programming and web development.<br>🧠 What I'm learning right now: C, C++, HTML5, CSS3, and JavaScript.<br>🎯 My Goal: To master data structures in C/C++ and build responsive websites.<br>💻 My Projects: Check out my repositories to see my coding journey.<br>🛠️ Building foundational coding logic and clean user interfaces.<br>💬 Ask me about: Basic algorithms, semantic HTML, or styling layouts.<br><br>📫 Connect with me: sartajpu54@gmail.com
 ## 🛠️ Skills
 
-### 🌱 I'm Learning
+### 🌱 I'm Learning\
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
@@ -42,13 +43,15 @@
 
 ## 👀 Profile Visitors
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saru-des-ntom&show_icons=true&theme=radical" />
-</p>
+// Source - https://stackoverflow.com/q/70073951
+// Posted by user17458330, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-05-13, License - CC BY-SA 4.0
 
-<p align="center">
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=saru-des-ntom&icon=5&color=12)
-</p>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
+
 
 ---
 # 📊 GitHub Stats:
